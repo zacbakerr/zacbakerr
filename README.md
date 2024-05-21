@@ -33,12 +33,6 @@ If you have any questions or opportunities, please do not hesitate to reach out 
 - Simulating human interaction
 - A mobile app to revolutionize daily AI use
 
-## 🌱 I'm currently learning
-
-- Rag
-- Mobile development
-- Bhangra dance
-
 ## 💼 Technical Skills
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
