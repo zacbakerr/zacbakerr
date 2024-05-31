@@ -18,20 +18,12 @@ I'm an AI engineer 💻, Builder 🛠, and Student 🎓!
 About to graduate from <a href="https://www.usnews.com/education/best-high-schools/virginia/districts/fairfax-county-public-schools/thomas-jefferson-high-school-for-science-and-technology-20461" target="_blank" rel="noreferrer" alt="My High School">TJHSST</a>, attending University College London next fall
 </h3>
 
-I'm passionate about simulating human interaction using artificial intelligence.
-
 ### 🤝🏼 Connect with me:
 
 - <a href="https://www.linkedin.com/in/zac-baker-008b361b8/"><img align="left" src="https://github.com/JackBlair87/JackBlair87/blob/main/images/linkedin.png" alt="Zachary Baker | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/zac.bakerr/"><img align="left" src="https://github.com/JackBlair87/JackBlair87/blob/main/images/instagram.png" alt="Zac Baker | Instagram" width="21px"/></a>
 
 If you have any questions or opportunities, please do not hesitate to reach out to me at <b>zac.r.baker06@gmail.com</b>!
-
-## 🔭 I'm currently working on
-
-- Creating real-time crowd estimations with little ground-truth data
-- Simulating human interaction
-- A mobile app to revolutionize daily AI use
 
 ## 💼 Technical Skills
 
