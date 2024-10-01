@@ -15,7 +15,7 @@ I'm an AI engineer 💻, Builder 🛠, and Student 🎓!
 </h2> 
 
 <h3 align="center">
-About to graduate from <a href="https://www.usnews.com/education/best-high-schools/virginia/districts/fairfax-county-public-schools/thomas-jefferson-high-school-for-science-and-technology-20461" target="_blank" rel="noreferrer" alt="My High School">TJHSST</a>, attending University College London next fall
+Computer Science student @ University College London. Formerly, <a href="https://www.usnews.com/education/best-high-schools/virginia/districts/fairfax-county-public-schools/thomas-jefferson-high-school-for-science-and-technology-20461" target="_blank" rel="noreferrer" alt="My High School">TJHSST</a>.
 </h3>
 
 ### 🤝🏼 Connect with me:
